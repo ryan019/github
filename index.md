@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SUBDOMAIN TAKEOVER BY FRINT 
 
 You can use the [editor on GitHub](https://github.com/ryan019/github/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
